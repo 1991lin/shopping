@@ -1,4 +1,4 @@
-package com.shopping.booter;
+package com.shopping;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -10,11 +10,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  **/
 
 
-@SpringBootApplication(scanBasePackages = "com.shopping.*")
+@SpringBootApplication
 public class ShoppingStarter {
 
     public static void main(String[] arg) {
-
         SpringApplication.run(ShoppingStarter.class, arg);
 
     }

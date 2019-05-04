@@ -1,0 +1,21 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+.idea/checkstyle-idea.xml
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/sbt.xml
+.idea/workspace.xml
+order-service/src/main/resources/
+order-service/src/test/
+order-service/target/
+shopping-starter-test/src/test/
+shopping-starter-test/target/
+shopping-starter/src/main/java/com/shoppoing/
+shopping-starter/src/test/
+shopping-starter/target/
+src/
+/order-service/target/
+/shopping-starter/target/
+/shopping-starter-test/target/
